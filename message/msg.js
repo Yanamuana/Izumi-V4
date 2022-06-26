@@ -81,14 +81,14 @@ const capt = "*By ABRUL MD*" // Ganti Nama Bot Kalian
 const grup = "https://chat.whatsapp.com/LsNzi7PDERyB9xW0F8Eq" // Ganti Link Group Kalian
 const nomorown = "https://wa.me/6285783062411" // Ganti Nomor Kalian
 const note = "*_Bot Ini Masih Dalam Pengembangan Jika Ada Fitur Yang Eror Silakan Hubungi Owner!!!_*" // Kalau Mau Ganti Aja
-const namagrup = "Group Izumi MD" // Ubah Nama Group Mu
+const namagrup = "Group Yana MD" // Ubah Nama Group Mu
 
 // Setting Donasi
 const gopay = "0857-0934-4807" // Ganti Nomor Gopay Mu
 const pulsa = "0857-0934-4807 " // Ganti No Pulsa Mu
 const insta = "Mabrur3772" // Ganti Nama IG Mu
 const github = "Yanamuana" // Ganti Nama Github Mu
-const linkdonasi = "https://telegra.ph/file/b7f1243d43509983f3230.jpg" // Ganti Link Qris Mu
+const linkdonasi = "https://telegra.ph/file/b7f1243d435099f3230.jpg" // Ganti Link Qris Mu
 
 // Setting SewaBot Ubah Harga Sesuai Harga Mu//
 const qris = "https://telegra.ph/file/b7f1243d43509983f3230.jpg"
